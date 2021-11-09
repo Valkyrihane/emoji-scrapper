@@ -4,7 +4,7 @@
   "description": "Script scrapping emoji on https://unicode.org/emoji/charts/full-emoji-list.html",
   "main": "index.js",
   "devDependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "node-html-parser": "^2.0.1"
   },
   "scripts": {
